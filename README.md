@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chaitanya Chotalia
-- 👀 I’m interested in Java, Spring Cloud, Microservices, Web services, AWS
+- 👀 I’m interested in Java, Docker, Kubernates, Spring Cloud, Microservices, Web services, AWS
 - 🌱 I’m currently learning Spring Boot, Hibernate, Web Development using React JS, Node JS and Mongo DB
-- 💻 I am working as Project Engineer at Wipro
+- 💻 I am working as R&D Development Engineer at Dassault Systèmes
 - 💞️ I’m looking to learn and collaborate on Java or Cloud related projects
 - 📫 Please reach me on: <a href="https://www.linkedin.com/in/chaitanya-chotalia/">LinkedIn</a> | <a href="https://instagram.com/chayy_c05">Instagram</a>
 </br>
