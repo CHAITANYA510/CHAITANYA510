@@ -3,8 +3,8 @@
 - 💻 I am working as R&D Development Engineer at <a href="https://www.3ds.com/">Dassault Systèmes
 - 🌱 I’m looking to learn and collaborate on Java or Cloud related projects
 - 📫 Please reach me on: <a href="https://www.linkedin.com/in/chaitanya-chotalia/">LinkedIn</a> | <a href="https://instagram.com/chaitanyachotalia">Instagram</a>
-An adept and organized engineer with over 3 years of experience, skilled in deploying, maintaining, and optimizing
-cloud-based solutions. Specializing in Platform as a Service (PaaS) offering, proficient in Java, Kubernetes
+<p>
+An adept and organized engineer with over 3 years of experience, skilled in deploying, maintaining, and optimizing cloud-based solutions. Specializing in Platform as a Service (PaaS) offering, proficient in Java, Kubernetes
 (K8s) and Helm to drive innovation and contribute to dynamic organizational projects
 </br>
 
